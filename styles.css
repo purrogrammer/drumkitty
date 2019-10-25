@@ -1,6 +1,6 @@
 body {
     text-align: center; 
-    background-color: rgb(116, 36, 191); 
+    background: radial-gradient(rgb(157, 0, 79), rgb(6, 36, 118)); 
 }
 
 h1 {
@@ -56,7 +56,12 @@ h1 {
     text-align: center;
     margin: 10px;
     background-color: white;
-  }
+}
+
+.clicked {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
   
 footer {
     color:rgb(203, 227, 235);
