@@ -1,0 +1,18 @@
+body {
+    text-align: center; 
+    background-color: rgb(116, 36, 191); 
+}
+
+h1 {
+    font-size: 4rem;
+    color: whitesmoke;
+    font-family: 'Sigmar One', cursive;
+    text-shadow: 3px 0 rgb(235, 24, 119);
+}    
+
+footer {
+    color:rgb(203, 227, 235);
+    font-family: sans-serif;
+}
+
+
