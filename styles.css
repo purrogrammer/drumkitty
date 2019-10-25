@@ -10,6 +10,54 @@ h1 {
     text-shadow: 3px 0 rgb(235, 24, 119);
 }    
 
+/*  button box images */
+
+.m {
+    background-image: url("images/tomcat1.png");
+  }
+  
+  .e {
+    background-image: url("images/cat-jumping.png");
+  }
+  
+  .o {
+    background-image: url("images/cat-hand.png");
+  }
+  
+  .w {
+    background-image: url("images/cat-eating.png");
+  }
+  
+  .c {
+    background-image: url("images/cute-kitten.png");
+  }
+  
+  .a {
+    background-image: url("images/tiger-cat.png");
+  }
+  
+  .t {
+    background-image: url("images/cat-rolling.png");
+  }
+
+  .meow {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 4rem;
+    font-family: 'Fredoka', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
 footer {
     color:rgb(203, 227, 235);
     font-family: sans-serif;
